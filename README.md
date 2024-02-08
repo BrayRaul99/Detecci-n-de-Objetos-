@@ -1,2 +1,2 @@
 # Detecci-n-de-Objetos-
-Detección  de Objetos con NumPy y OpenCV (cv2) 
+Detección y reconocimiento de Objetos con NumPy y OpenCV (cv2) 
